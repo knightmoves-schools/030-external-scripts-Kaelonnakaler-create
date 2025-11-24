@@ -1,4 +1,4 @@
 var total = 50;
         
 
-        document.getElementById('result').innerHTML = total;
+document.getElementById('result').innerHTML = total;
